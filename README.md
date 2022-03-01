@@ -17,7 +17,7 @@ Third Stage Feature from Librosa:
 1-	Root Mean Square (RMS)
 2-	Zero Crossed Rate (ZCR)
 3-	Mel-Frequency Cepstral Coefficients (MFCCs)
-4-	Chroma 
+4-	Chroma.
 Results had shown an accuracy of 78% of emotional recognition from speech. 
 
 
