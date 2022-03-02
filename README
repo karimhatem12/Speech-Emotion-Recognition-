@@ -3,7 +3,9 @@ _____________________________
 A Deep Learning (LSTM) model with keras.
 In nowadays the speech is the most natural way for human to communicate with so by this project we can know the emotion of the person A classification model is developed in a Deep Learning method, meaning a Deep Neural Network (DNN) while an advanced model for time-series analysis has been chosen, which is the Long Short-Term Memory (LSTM).
 by his speech that will help companies to improve themselves 
+
 Using google collab to create the model file name is Model.py and using spyder for create the GUI file name App.py and this is all stage to crete the model
+
 First Stage is datasets:
 1-	Crowd Sourced Emotional Multimodal Actors Dataset (CREMA-D) Used Only 1100 audio
 2-	RAVDESS Emotional Speech Audio (RAVDESS) Used All emotions except the Calm Emotion 
